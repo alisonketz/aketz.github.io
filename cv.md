@@ -6,7 +6,8 @@ image:
     feature: 141106_elkheli-326_web.jpg
 ---
 
-{{< ref "cv.md" >}}{{% staticref "1909_Ketz_CV.pdf" %}}<font color="brown">Download my CV</font>{{% /staticref %}}
+<a href="/images/1909_Ketz_CV.pdf" download>Download my CV</font> </a>
+<br/><br/>
 
 ##Biography
 
