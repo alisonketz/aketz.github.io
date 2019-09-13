@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:           
+title:           Alison Ketz Research Website
 locale:           en_US
-url:              
+url:
 
 
 # Jekyll configuration
@@ -26,22 +26,24 @@ kramdown:
 
 # Site owner
 owner:
-  name: Dieuwke Hupkes
-  avatar: dieuwk.jpg
+  name: Alison Ketz
+  avatar: AlisonKetz.jpg
   # bio: "Describe your self."
-  email: d.hupkes@uva.nl
-  disqus-shortname: 
+  email: alison.ketz@gmail.com
+  disqus-shortname:
   google:
     plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: dieuwkehupkes
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  twitter: AlisonKetz
+  google_scholar: vyHIWLcAAAAJ
+  github: alisonketz
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: dieuwke-hupkes/84/656/707
-  instagram: duo_polenotti
+  linkedin: alison-ketz-762125133
+  instagram: #
   xing: #username
   lastfm: #username
   tumblr: #username
