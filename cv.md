@@ -9,7 +9,7 @@ image:
 <a href="/images/1909_Ketz_CV.pdf" download> <font color="brown">Download my CV</font> </a>
 <br/><br/>
 
-##Biography
+## Life History
 
 I was born and raised in Arlington, VA; a hop-skip-and-a-jump to capitol hill in Washington, DC. The backdrop of diversity of people as well as ample access to a rich cultural city lead me to attend the Art Institute of Boston at Lesley University (now the Lesley College of Art and Design) and to pursue my passion in photography. After graduation, I moved to New York City and interned for Annie Leibovitz. I went on to pursue a career as a freelance photographer and worked for almost 10 years; doing photo assisting, setting up a studio in Brooklyn and shooting highly technical still life, editorial assignments, advertising assignments, and event photos for a wide variety of clients.
 
