@@ -1,7 +1,8 @@
 # Site wide configuration
 
-title:           Alison Ketz             Ecological Statistician
-locale:           en_US
+title:           Alison Ketz
+subtitle:        Ecological Statistician
+locale:          en_US
 url:
 
 
