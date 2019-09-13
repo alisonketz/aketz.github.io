@@ -14,19 +14,18 @@ I believe in leading with curiousity. Advancement of science, and it's use in so
 <br /><br />
 My research interests are focused in 4 major areas:
 <br />
-## Statistical Ecology
+### Statistical Ecology
 * Development of complex statistical models to analyze ecological data, particularly in a Bayesian framework
 * Development and application of machine-learning algorthims to help with ecological prediction, and to aid new sampling methods
 * Advance spatial ecology through noise reduction of large data sets
 <br />
-___
-## Population Ecology
+### Population Ecology
 * Development of integrated population models, to forecast under varying management actions.
 * Thresholds
 <br />
-## Disease Ecology
+### Disease Ecology
 * Study the effects of environmental, genetic, and population drivers of disease dynamics.
 * Development of spatial and temporal disease models
 <br />
-## Movement Ecology
+### Movement Ecology
 * The connection between behavior, space use, contact rates and disease dynamics
