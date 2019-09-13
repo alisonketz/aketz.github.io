@@ -5,9 +5,7 @@ image:
     feature: 141106_elkheli-326_web.jpg
 ---
 
-
-[View my CV]{{< ref "cv.md" >}}
-{{% staticref "files/20190905_Alison_Ketz_CV.pdf" %}}Download my CV{{% /staticref %}}
+{{< ref "cv.md" >}}{{% staticref "1909_Ketz_CV.pdf" %}}<font color="brown">Download my CV</font>{{% /staticref %}}
 
 ##Biography
 
