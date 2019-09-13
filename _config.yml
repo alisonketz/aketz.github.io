@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title:           Alison Ketz
-subtitle:           Ecological Statistician 
+subtitle:           Ecological Statistician
 locale:           en_US
 url:
 
@@ -40,10 +40,10 @@ owner:
     ad-slot:
   bing-verify:
   twitter: AlisonKetz
-  google_scholar: vyHIWLcAAAAJ
   github: alisonketz
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: alison-ketz-762125133
+  google_scholar: vyHIWLcAAAAJ
   instagram: #
   xing: #username
   lastfm: #username
