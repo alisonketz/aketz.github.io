@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 excerpt: "cv"
 image:
     feature: 141106_elkheli-326_web.jpg
