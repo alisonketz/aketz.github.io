@@ -11,7 +11,8 @@ I am an ecological statistician/quantitative ecologist and a research scientist 
 I am interested in developing and applying novel statistical methods to improve basic environmental science, while simultaneously trying to make that science more relevant to society. Broadly speaking, my goal is to use ideas from theoretical ecology to optimize natural resource management under uncertainty, and to further learn about ecological mechanisms given new data under environmental change.
 <br /><br />
 I believe in leading with curiousity. Advancement and applications of science are predicated on the desire to learn. Questions always lead to further questions at all scales. I am fascinated by the abstract beauty of how mathematics and statistics can describe life on earth, and how we leverage these abstractions to further understanding in the era of global change.
-<br />
+
+_________________________
 
 My research interests are focused in 4 major areas:
 <br>
