@@ -13,24 +13,24 @@ I am interested in developing and applying novel statistical methods to improve 
 I believe in leading with curiousity. Advancement of science, and it's use in society, is predicated on the desire to learn. Questions always lead to further questions at all scales. I am fascinated by the abstract beauty of how mathematics and statistics can describe life on earth, and how we leverage these abstractions to further understanding in the era of global change.
 <br />
 
-My research interests are focused in 4 major areas:  
-<br/>
+My research interests are focused in 4 major areas:
+<br>
 #### Statistical Ecology
 
 * Development of complex statistical models to analyze ecological data, particularly in a Bayesian framework
 * Development and application of machine-learning algorthims to help with ecological prediction, and to aid new sampling methods
 * Advance spatial ecology through noise reduction of large data sets
-<br />
+
 #### Population Ecology
 
 * Development of integrated population models, to forecast under varying management actions.
 * Thresholds
-<br />
+
 #### Disease Ecology
 
 * Study the effects of environmental, genetic, and population drivers of disease dynamics.
 * Development of spatial and temporal disease models
-<br />
+
 #### Movement Ecology
 
 * The connection between behavior, space use, contact rates and disease dynamics
