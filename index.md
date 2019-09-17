@@ -20,18 +20,13 @@ My research interests are focused in 4 major areas:
 
 * Development of complex statistical models to analyze ecological data, particularly in a Bayesian framework
 * Development and application of machine-learning algorthims to help with ecological prediction, and to aid new sampling methods
-* Advance spatial ecology through noise reduction of large data sets
 
 #### Population Ecology
 
 * Development of integrated population models, to forecast under varying management actions.
-* Thresholds
+* Development of spatio-temporal time-to-event known fate survival models
 
 #### Disease Ecology
 
-* Study the effects of environmental, genetic, and population drivers of disease dynamics.
-* Development of spatial and temporal disease models
-
-#### Movement Ecology
-
-* The connection between behavior, space use, contact rates and disease dynamics
+* Studying the effects of environmental, genetic, and population drivers of disease dynamics.
+* Development of spatial and temporal force of infection disease models
