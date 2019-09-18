@@ -14,7 +14,7 @@ I believe in leading with curiousity. Advancement and applications of science ar
 
 _________________________
 
-My research interests are focused in 4 major areas:
+My research interests are focused in 3 major areas:
 <br>
 #### Statistical Ecology
 

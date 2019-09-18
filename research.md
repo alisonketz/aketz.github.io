@@ -6,10 +6,7 @@ image:
     feature: 141106_elkheli-326_web.jpg
 ---
 
-### Overview
-
-
-####Statistical Ecology
+#### Statistical Ecology
 
 A core component of my work is at the interface of statistics and ecology; I address methodological and computational problems that arise during analysis of ecological data. For example, problems pertaining to integration of multiple datasets, optimal sampling design, historical data, convenience sampling, and missing data. We address these problems for case studies and ultimately apply them to answer particular management concerns.
 
