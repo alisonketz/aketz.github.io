@@ -48,7 +48,4 @@ heterogeneous transmission and survival for cervids exposed to chronic wasting d
 <br/>
 <br/>
 __Ketz, A. C.__, Storm, D. J. & Walsh, D. P., Using semi-supervised machine learning anomaly detection for prediction of parturition of ungulates.
-<br/>
-<br/>
-Galloway, N. L., __Ketz, A. C.__, Johnson, T. L., Monello, R. J., George, J. L., Kraft, B. R.,
-Wild, M. A. & Hobbs, N. T., Space use and risk of chronic wasting disease
+
